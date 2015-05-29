@@ -2,7 +2,7 @@ var webpack = require('webpack');
 
 module.exports = {
   output: {
-    library: 'ReactDataloader',
+    library: 'ReactNotifier',
     libraryTarget: 'umd'
   },
 
