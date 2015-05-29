@@ -7,7 +7,7 @@ var
   webpackServer = require('./webpack-server');
 
 var jsPath = "lib/entry.js";
-var jsOutName = "dataloader.min.js";
+var jsOutName = "notifier.min.js";
 var jsOutPath = "dist";
 var jsPublicPath = "public/assets/js";
 
