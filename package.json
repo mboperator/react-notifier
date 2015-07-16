@@ -1,6 +1,6 @@
 {
   "name": "react-notifier",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "It notifies the page.",
   "main": "./dist/notifier.min.js",
   "scripts": {
