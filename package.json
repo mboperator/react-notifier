@@ -1,6 +1,6 @@
 {
   "name": "react-notifier",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "It notifies the page.",
   "main": "./dist/notifier.min.js",
   "scripts": {
@@ -11,11 +11,11 @@
   "author": "Me",
   "license": "ISC",
   "dependencies": {
-  },
-  "peerDependencies": {
-    "react": "^0.13",
     "reflux": "^0.2.6",
     "underscore": "^1.7.0"
+  },
+  "peerDependencies": {
+    "react": "^0.13"
   },
   "devDependencies": {
     "q": "^1.2.0",
